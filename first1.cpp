@@ -1,0 +1,1 @@
+cout<<hello dino maan<<endl;
